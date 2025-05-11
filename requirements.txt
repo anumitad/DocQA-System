@@ -1,0 +1,11 @@
+fastapi[standard]
+python-multipart
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+streamlit
+requests
+pydantic
+pandas
