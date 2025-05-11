@@ -15,7 +15,7 @@ In order to get the python dependencies required, run the command:
 
 Open two python terminals. 
 
--To start the fastapi backend, run the following in one terminal: 
+- To start the fastapi backend, run the following in one terminal: 
 ```fastapi dev main.py```
 -To start the streamlit front end, run the following in the second terminal: 
 ```python3 -m streamlit run app.py```
